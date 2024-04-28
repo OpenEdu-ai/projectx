@@ -1,0 +1,20 @@
+{
+  "name": "build-your-own-x",
+  "version": "1.0.0",
+  "description": "build you own Database from scratch using js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test-cli.js --test $TEST_VALUE$",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openedu-ai/projectx.git"
+  },
+  "author": "himanshu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/openedu-ai/projectx/issues"
+  },
+  "homepage": "https://github.com/openedu-ai/projectx#readme"
+}
